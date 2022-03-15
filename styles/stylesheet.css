@@ -1,0 +1,48 @@
+* {
+    font-family: "Trebuchet MS";
+    color: #FEFAE0;
+    text-align: center;
+}
+
+body {
+    width: 960px;
+    margin: 0 auto;
+    background-color: #283618;
+}
+
+a {
+    padding: 10px;
+}
+
+a.header:link{
+    text-decoration: none 
+}
+
+a:hover {
+    color: #DDA15E;
+}
+
+nav {
+    background-color: #606C38;
+    padding: 10px;
+    margin: 10px;
+}
+
+section {
+    overflow: auto;
+    height: 100%;  
+}
+
+main {
+    background-color: #606C38;
+    padding: 10px;
+    margin: 10px;
+}
+
+figure {
+    background-color: #606C38;
+    padding: 10px;
+    margin: 10px;
+    width: 260px;
+    float: left;
+}
